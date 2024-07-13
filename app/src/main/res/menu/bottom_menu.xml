@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<item android:id="@+id/homeFragment"
+    android:title="Home"
+    android:icon="@drawable/home">
+</item>
+
+    <item android:id="@+id/wishlistFragment"
+        android:title="Wishlist"
+        android:icon="@drawable/wishlist">
+    </item>
+
+    <item android:id="@+id/orderFragment"
+        android:title="Order"
+        android:icon="@drawable/order">
+    </item>
+
+    <item android:id="@+id/cardFragment"
+        android:title="Card"
+        android:icon="@drawable/card">
+    </item>
+
+</menu>
